@@ -5,6 +5,8 @@
 // @match        *://stratsketch.com/*
 // @run-at       document-idle
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/Bilko1488/Sketch/main/StratSketch%20Bilko-1.0.0.user.js
+// @downloadURL  https://raw.githubusercontent.com/Bilko1488/Sketch/main/StratSketch%20Bilko-1.0.0.user.js
 // ==/UserScript==
 
 (function() {
